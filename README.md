@@ -1,3 +1,7 @@
 # git 教程
 
-    -fix-B
+<<<<<<< HEAD
+
+    - fix-B
+    - feature-A
+>>>>>>> feature-A
